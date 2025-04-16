@@ -6,6 +6,10 @@ I recently to work on a data visualization project using Power BI for Blinkit. f
 Welcome to the Blinkit Sales Analytics Dashboard repository!
 This project provides a comprehensive visualization of sales data for Blinkit, India’s last-minute delivery app. The dashboard offers insights into outlet performance, item types, fat content, and more—empowering data-driven decision-making.
 
+![Image](https://github.com/user-attachments/assets/50aefe3d-ed59-4cba-a83f-796da89e2be0)
+
+---
+
 ## 🖼️ Dashboard Preview ##
 
 ## 📌 Key Features
